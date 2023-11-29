@@ -1,0 +1,1201 @@
+2023-11-29 17:13:40,267 - INFO - Prepared folder: ./NEW_PROJECTS
+2023-11-29 17:13:40,269 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 1
+2023-11-29 17:13:40,270 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 1/videos
+2023-11-29 17:13:40,270 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 1/videos
+2023-11-29 17:13:40,289 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 1/img/mainImage.jpg
+2023-11-29 17:13:40,304 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 1/img/mainImageShown.jpg
+2023-11-29 17:13:40,737 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 1/voiceover/voiceover.mp3
+2023-11-29 17:13:40,737 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 1/txt/Space1.txt
+2023-11-29 17:13:40,737 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 1
+2023-11-29 17:13:40,740 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 2
+2023-11-29 17:13:40,741 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 2/videos
+2023-11-29 17:13:40,741 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 2/videos
+2023-11-29 17:13:40,770 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 2/img/mainImage.jpg
+2023-11-29 17:13:40,791 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 2/img/mainImageShown.jpg
+2023-11-29 17:13:41,063 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 2/voiceover/voiceover.mp3
+2023-11-29 17:13:41,063 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 2/txt/Space2.txt
+2023-11-29 17:13:41,063 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 2
+2023-11-29 17:13:41,066 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 3
+2023-11-29 17:13:41,066 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 3/videos
+2023-11-29 17:13:41,067 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 3/videos
+2023-11-29 17:13:41,093 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 3/img/mainImage.jpg
+2023-11-29 17:13:41,114 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 3/img/mainImageShown.jpg
+2023-11-29 17:13:41,439 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 3/voiceover/voiceover.mp3
+2023-11-29 17:13:41,440 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 3/txt/Space3.txt
+2023-11-29 17:13:41,440 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 3
+2023-11-29 17:13:41,443 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 4
+2023-11-29 17:13:41,444 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 4/videos
+2023-11-29 17:13:41,444 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 4/videos
+2023-11-29 17:13:41,473 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 4/img/mainImage.jpg
+2023-11-29 17:13:41,494 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 4/img/mainImageShown.jpg
+2023-11-29 17:13:41,810 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 4/voiceover/voiceover.mp3
+2023-11-29 17:13:41,811 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 4/txt/Space4.txt
+2023-11-29 17:13:41,811 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 4
+2023-11-29 17:13:41,814 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 5
+2023-11-29 17:13:41,815 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 5/videos
+2023-11-29 17:13:41,815 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 5/videos
+2023-11-29 17:13:41,844 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 5/img/mainImage.jpg
+2023-11-29 17:13:41,865 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 5/img/mainImageShown.jpg
+2023-11-29 17:13:42,117 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 5/voiceover/voiceover.mp3
+2023-11-29 17:13:42,118 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 5/txt/Space5.txt
+2023-11-29 17:13:42,118 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 5
+2023-11-29 17:13:42,121 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 6
+2023-11-29 17:13:42,121 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 6/videos
+2023-11-29 17:13:42,121 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 6/videos
+2023-11-29 17:13:42,143 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 6/img/mainImage.jpg
+2023-11-29 17:13:42,163 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 6/img/mainImageShown.jpg
+2023-11-29 17:13:42,581 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 6/voiceover/voiceover.mp3
+2023-11-29 17:13:42,581 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 6/txt/Space6.txt
+2023-11-29 17:13:42,581 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 6
+2023-11-29 17:13:42,585 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 7
+2023-11-29 17:13:42,586 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 7/videos
+2023-11-29 17:13:42,586 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 7/videos
+2023-11-29 17:13:42,611 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 7/img/mainImage.jpg
+2023-11-29 17:13:42,630 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 7/img/mainImageShown.jpg
+2023-11-29 17:13:43,107 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 7/voiceover/voiceover.mp3
+2023-11-29 17:13:43,107 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 7/txt/Space7.txt
+2023-11-29 17:13:43,107 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 7
+2023-11-29 17:13:43,109 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 8
+2023-11-29 17:13:43,109 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 8/videos
+2023-11-29 17:13:43,110 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 8/videos
+2023-11-29 17:13:43,133 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 8/img/mainImage.jpg
+2023-11-29 17:13:43,152 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 8/img/mainImageShown.jpg
+2023-11-29 17:13:43,463 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 8/voiceover/voiceover.mp3
+2023-11-29 17:13:43,464 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 8/txt/Space8.txt
+2023-11-29 17:13:43,464 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 8
+2023-11-29 17:13:43,468 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 9
+2023-11-29 17:13:43,468 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 9/videos
+2023-11-29 17:13:43,469 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 9/videos
+2023-11-29 17:13:43,498 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 9/img/mainImage.jpg
+2023-11-29 17:13:43,519 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 9/img/mainImageShown.jpg
+2023-11-29 17:13:43,824 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 9/voiceover/voiceover.mp3
+2023-11-29 17:13:43,825 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 9/txt/Space9.txt
+2023-11-29 17:13:43,825 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 9
+2023-11-29 17:13:43,828 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 10
+2023-11-29 17:13:43,828 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 10/videos
+2023-11-29 17:13:43,828 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 10/videos
+2023-11-29 17:13:43,856 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 10/img/mainImage.jpg
+2023-11-29 17:13:43,877 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 10/img/mainImageShown.jpg
+2023-11-29 17:13:44,144 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 10/voiceover/voiceover.mp3
+2023-11-29 17:13:44,145 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 10/txt/Space10.txt
+2023-11-29 17:13:44,145 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 10
+2023-11-29 17:13:44,148 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 11
+2023-11-29 17:13:44,149 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 11/videos
+2023-11-29 17:13:44,149 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 11/videos
+2023-11-29 17:13:44,173 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 11/img/mainImage.jpg
+2023-11-29 17:13:44,193 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 11/img/mainImageShown.jpg
+2023-11-29 17:13:44,502 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 11/voiceover/voiceover.mp3
+2023-11-29 17:13:44,503 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 11/txt/Space11.txt
+2023-11-29 17:13:44,503 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 11
+2023-11-29 17:13:44,506 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 12
+2023-11-29 17:13:44,506 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 12/videos
+2023-11-29 17:13:44,506 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 12/videos
+2023-11-29 17:13:44,533 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 12/img/mainImage.jpg
+2023-11-29 17:13:44,557 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 12/img/mainImageShown.jpg
+2023-11-29 17:13:44,807 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 12/voiceover/voiceover.mp3
+2023-11-29 17:13:44,808 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 12/txt/Space12.txt
+2023-11-29 17:13:44,808 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 12
+2023-11-29 17:13:44,810 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 13
+2023-11-29 17:13:44,811 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 13/videos
+2023-11-29 17:13:44,811 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 13/videos
+2023-11-29 17:13:44,837 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 13/img/mainImage.jpg
+2023-11-29 17:13:44,858 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 13/img/mainImageShown.jpg
+2023-11-29 17:13:45,123 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 13/voiceover/voiceover.mp3
+2023-11-29 17:13:45,124 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 13/txt/Space13.txt
+2023-11-29 17:13:45,124 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 13
+2023-11-29 17:13:45,127 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 14
+2023-11-29 17:13:45,127 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 14/videos
+2023-11-29 17:13:45,128 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 14/videos
+2023-11-29 17:13:45,156 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 14/img/mainImage.jpg
+2023-11-29 17:13:45,176 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 14/img/mainImageShown.jpg
+2023-11-29 17:13:45,947 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 14/voiceover/voiceover.mp3
+2023-11-29 17:13:45,948 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 14/txt/Space14.txt
+2023-11-29 17:13:45,948 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 14
+2023-11-29 17:13:45,952 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 15
+2023-11-29 17:13:45,952 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 15/videos
+2023-11-29 17:13:45,953 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 15/videos
+2023-11-29 17:13:45,981 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 15/img/mainImage.jpg
+2023-11-29 17:13:46,002 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 15/img/mainImageShown.jpg
+2023-11-29 17:13:46,309 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 15/voiceover/voiceover.mp3
+2023-11-29 17:13:46,310 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 15/txt/Space15.txt
+2023-11-29 17:13:46,310 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 15
+2023-11-29 17:13:46,314 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 16
+2023-11-29 17:13:46,315 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 16/videos
+2023-11-29 17:13:46,315 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 16/videos
+2023-11-29 17:13:46,345 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 16/img/mainImage.jpg
+2023-11-29 17:13:46,366 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 16/img/mainImageShown.jpg
+2023-11-29 17:13:46,709 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 16/voiceover/voiceover.mp3
+2023-11-29 17:13:46,710 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 16/txt/Space16.txt
+2023-11-29 17:13:46,710 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 16
+2023-11-29 17:13:46,713 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 17
+2023-11-29 17:13:46,714 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 17/videos
+2023-11-29 17:13:46,714 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 17/videos
+2023-11-29 17:13:46,743 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 17/img/mainImage.jpg
+2023-11-29 17:13:46,764 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 17/img/mainImageShown.jpg
+2023-11-29 17:13:47,142 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 17/voiceover/voiceover.mp3
+2023-11-29 17:13:47,143 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 17/txt/Space17.txt
+2023-11-29 17:13:47,143 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 17
+2023-11-29 17:13:47,145 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 18
+2023-11-29 17:13:47,146 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 18/videos
+2023-11-29 17:13:47,146 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 18/videos
+2023-11-29 17:13:47,163 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 18/img/mainImage.jpg
+2023-11-29 17:13:47,179 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 18/img/mainImageShown.jpg
+2023-11-29 17:13:47,550 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 18/voiceover/voiceover.mp3
+2023-11-29 17:13:47,550 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 18/txt/Space18.txt
+2023-11-29 17:13:47,550 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 18
+2023-11-29 17:13:47,553 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 19
+2023-11-29 17:13:47,554 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 19/videos
+2023-11-29 17:13:47,554 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 19/videos
+2023-11-29 17:13:47,583 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 19/img/mainImage.jpg
+2023-11-29 17:13:47,605 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 19/img/mainImageShown.jpg
+2023-11-29 17:13:47,931 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 19/voiceover/voiceover.mp3
+2023-11-29 17:13:47,932 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 19/txt/Space19.txt
+2023-11-29 17:13:47,932 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 19
+2023-11-29 17:13:47,935 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 20
+2023-11-29 17:13:47,936 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 20/videos
+2023-11-29 17:13:47,936 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 20/videos
+2023-11-29 17:13:47,967 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 20/img/mainImage.jpg
+2023-11-29 17:13:47,989 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 20/img/mainImageShown.jpg
+2023-11-29 17:13:48,313 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 20/voiceover/voiceover.mp3
+2023-11-29 17:13:48,314 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 20/txt/Space20.txt
+2023-11-29 17:13:48,314 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 20
+2023-11-29 17:13:48,315 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 21
+2023-11-29 17:13:48,315 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 21/videos
+2023-11-29 17:13:48,315 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 21/videos
+2023-11-29 17:13:48,343 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 21/img/mainImage.jpg
+2023-11-29 17:13:48,364 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 21/img/mainImageShown.jpg
+2023-11-29 17:13:48,686 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 21/voiceover/voiceover.mp3
+2023-11-29 17:13:48,687 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 21/txt/Space21.txt
+2023-11-29 17:13:48,687 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 21
+2023-11-29 17:13:48,690 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 22
+2023-11-29 17:13:48,691 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 22/videos
+2023-11-29 17:13:48,691 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 22/videos
+2023-11-29 17:13:48,720 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 22/img/mainImage.jpg
+2023-11-29 17:13:48,741 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 22/img/mainImageShown.jpg
+2023-11-29 17:13:49,090 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 22/voiceover/voiceover.mp3
+2023-11-29 17:13:49,091 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 22/txt/Space22.txt
+2023-11-29 17:13:49,091 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 22
+2023-11-29 17:13:49,093 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 23
+2023-11-29 17:13:49,094 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 23/videos
+2023-11-29 17:13:49,094 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 23/videos
+2023-11-29 17:13:49,120 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 23/img/mainImage.jpg
+2023-11-29 17:13:49,140 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 23/img/mainImageShown.jpg
+2023-11-29 17:13:49,914 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 23/voiceover/voiceover.mp3
+2023-11-29 17:13:49,915 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 23/txt/Space23.txt
+2023-11-29 17:13:49,915 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 23
+2023-11-29 17:13:49,918 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 24
+2023-11-29 17:13:49,919 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 24/videos
+2023-11-29 17:13:49,919 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 24/videos
+2023-11-29 17:13:49,947 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 24/img/mainImage.jpg
+2023-11-29 17:13:49,967 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 24/img/mainImageShown.jpg
+2023-11-29 17:13:50,273 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 24/voiceover/voiceover.mp3
+2023-11-29 17:13:50,274 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 24/txt/Space24.txt
+2023-11-29 17:13:50,274 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 24
+2023-11-29 17:13:50,277 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 25
+2023-11-29 17:13:50,278 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 25/videos
+2023-11-29 17:13:50,279 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 25/videos
+2023-11-29 17:13:50,309 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 25/img/mainImage.jpg
+2023-11-29 17:13:50,330 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 25/img/mainImageShown.jpg
+2023-11-29 17:13:50,650 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 25/voiceover/voiceover.mp3
+2023-11-29 17:13:50,651 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 25/txt/Space25.txt
+2023-11-29 17:13:50,651 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 25
+2023-11-29 17:13:50,653 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 26
+2023-11-29 17:13:50,654 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 26/videos
+2023-11-29 17:13:50,654 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 26/videos
+2023-11-29 17:13:50,680 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 26/img/mainImage.jpg
+2023-11-29 17:13:50,700 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 26/img/mainImageShown.jpg
+2023-11-29 17:13:51,041 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 26/voiceover/voiceover.mp3
+2023-11-29 17:13:51,042 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 26/txt/Space26.txt
+2023-11-29 17:13:51,042 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 26
+2023-11-29 17:13:51,045 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 27
+2023-11-29 17:13:51,046 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 27/videos
+2023-11-29 17:13:51,046 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 27/videos
+2023-11-29 17:13:51,073 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 27/img/mainImage.jpg
+2023-11-29 17:13:51,095 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 27/img/mainImageShown.jpg
+2023-11-29 17:13:51,396 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 27/voiceover/voiceover.mp3
+2023-11-29 17:13:51,397 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 27/txt/Space27.txt
+2023-11-29 17:13:51,397 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 27
+2023-11-29 17:13:51,399 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 28
+2023-11-29 17:13:51,400 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 28/videos
+2023-11-29 17:13:51,400 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 28/videos
+2023-11-29 17:13:51,424 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 28/img/mainImage.jpg
+2023-11-29 17:13:51,443 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 28/img/mainImageShown.jpg
+2023-11-29 17:13:51,834 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 28/voiceover/voiceover.mp3
+2023-11-29 17:13:51,835 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 28/txt/Space28.txt
+2023-11-29 17:13:51,835 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 28
+2023-11-29 17:13:51,839 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 29
+2023-11-29 17:13:51,839 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 29/videos
+2023-11-29 17:13:51,839 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 29/videos
+2023-11-29 17:13:51,868 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 29/img/mainImage.jpg
+2023-11-29 17:13:51,889 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 29/img/mainImageShown.jpg
+2023-11-29 17:13:52,184 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 29/voiceover/voiceover.mp3
+2023-11-29 17:13:52,185 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 29/txt/Space29.txt
+2023-11-29 17:13:52,185 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 29
+2023-11-29 17:13:52,187 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 30
+2023-11-29 17:13:52,188 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 30/videos
+2023-11-29 17:13:52,188 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 30/videos
+2023-11-29 17:13:52,215 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 30/img/mainImage.jpg
+2023-11-29 17:13:52,235 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 30/img/mainImageShown.jpg
+2023-11-29 17:13:52,683 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 30/voiceover/voiceover.mp3
+2023-11-29 17:13:52,684 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 30/txt/Space30.txt
+2023-11-29 17:13:52,684 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 30
+2023-11-29 17:13:52,689 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 31
+2023-11-29 17:13:52,689 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 31/videos
+2023-11-29 17:13:52,690 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 31/videos
+2023-11-29 17:13:52,718 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 31/img/mainImage.jpg
+2023-11-29 17:13:52,739 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 31/img/mainImageShown.jpg
+2023-11-29 17:13:53,028 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 31/voiceover/voiceover.mp3
+2023-11-29 17:13:53,029 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 31/txt/Space31.txt
+2023-11-29 17:13:53,029 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 31
+2023-11-29 17:13:53,031 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 32
+2023-11-29 17:13:53,032 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 32/videos
+2023-11-29 17:13:53,032 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 32/videos
+2023-11-29 17:13:53,059 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 32/img/mainImage.jpg
+2023-11-29 17:13:53,080 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 32/img/mainImageShown.jpg
+2023-11-29 17:13:53,446 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 32/voiceover/voiceover.mp3
+2023-11-29 17:13:53,447 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 32/txt/Space32.txt
+2023-11-29 17:13:53,447 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 32
+2023-11-29 17:13:53,448 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 33
+2023-11-29 17:13:53,448 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 33/videos
+2023-11-29 17:13:53,449 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 33/videos
+2023-11-29 17:13:53,465 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 33/img/mainImage.jpg
+2023-11-29 17:13:53,480 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 33/img/mainImageShown.jpg
+2023-11-29 17:13:54,111 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 33/voiceover/voiceover.mp3
+2023-11-29 17:13:54,112 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 33/txt/Space33.txt
+2023-11-29 17:13:54,112 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 33
+2023-11-29 17:13:54,115 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 34
+2023-11-29 17:13:54,116 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 34/videos
+2023-11-29 17:13:54,116 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 34/videos
+2023-11-29 17:13:54,141 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 34/img/mainImage.jpg
+2023-11-29 17:13:54,158 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 34/img/mainImageShown.jpg
+2023-11-29 17:13:54,530 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 34/voiceover/voiceover.mp3
+2023-11-29 17:13:54,531 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 34/txt/Space34.txt
+2023-11-29 17:13:54,531 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 34
+2023-11-29 17:13:54,535 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 35
+2023-11-29 17:13:54,536 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 35/videos
+2023-11-29 17:13:54,536 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 35/videos
+2023-11-29 17:13:54,565 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 35/img/mainImage.jpg
+2023-11-29 17:13:54,586 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 35/img/mainImageShown.jpg
+2023-11-29 17:13:55,041 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 35/voiceover/voiceover.mp3
+2023-11-29 17:13:55,042 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 35/txt/Space35.txt
+2023-11-29 17:13:55,042 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 35
+2023-11-29 17:13:55,046 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 36
+2023-11-29 17:13:55,046 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 36/videos
+2023-11-29 17:13:55,047 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 36/videos
+2023-11-29 17:13:55,077 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 36/img/mainImage.jpg
+2023-11-29 17:13:55,098 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 36/img/mainImageShown.jpg
+2023-11-29 17:13:56,035 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 36/voiceover/voiceover.mp3
+2023-11-29 17:13:56,035 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 36/txt/Space36.txt
+2023-11-29 17:13:56,036 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 36
+2023-11-29 17:13:56,039 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 37
+2023-11-29 17:13:56,040 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 37/videos
+2023-11-29 17:13:56,040 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 37/videos
+2023-11-29 17:13:56,069 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 37/img/mainImage.jpg
+2023-11-29 17:13:56,090 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 37/img/mainImageShown.jpg
+2023-11-29 17:13:56,563 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 37/voiceover/voiceover.mp3
+2023-11-29 17:13:56,564 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 37/txt/Space37.txt
+2023-11-29 17:13:56,564 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 37
+2023-11-29 17:13:56,566 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 38
+2023-11-29 17:13:56,566 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 38/videos
+2023-11-29 17:13:56,566 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 38/videos
+2023-11-29 17:13:56,588 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 38/img/mainImage.jpg
+2023-11-29 17:13:56,609 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 38/img/mainImageShown.jpg
+2023-11-29 17:13:56,975 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 38/voiceover/voiceover.mp3
+2023-11-29 17:13:56,975 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 38/txt/Space38.txt
+2023-11-29 17:13:56,975 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 38
+2023-11-29 17:13:56,978 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 39
+2023-11-29 17:13:56,979 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 39/videos
+2023-11-29 17:13:56,979 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 39/videos
+2023-11-29 17:13:57,006 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 39/img/mainImage.jpg
+2023-11-29 17:13:57,026 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 39/img/mainImageShown.jpg
+2023-11-29 17:13:57,343 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 39/voiceover/voiceover.mp3
+2023-11-29 17:13:57,344 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 39/txt/Space39.txt
+2023-11-29 17:13:57,344 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 39
+2023-11-29 17:13:57,346 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 40
+2023-11-29 17:13:57,347 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 40/videos
+2023-11-29 17:13:57,347 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 40/videos
+2023-11-29 17:13:57,373 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 40/img/mainImage.jpg
+2023-11-29 17:13:57,393 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 40/img/mainImageShown.jpg
+2023-11-29 17:13:57,721 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 40/voiceover/voiceover.mp3
+2023-11-29 17:13:57,722 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 40/txt/Space40.txt
+2023-11-29 17:13:57,722 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 40
+2023-11-29 17:13:57,726 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 41
+2023-11-29 17:13:57,726 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 41/videos
+2023-11-29 17:13:57,727 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 41/videos
+2023-11-29 17:13:57,756 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 41/img/mainImage.jpg
+2023-11-29 17:13:57,777 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 41/img/mainImageShown.jpg
+2023-11-29 17:13:58,215 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 41/voiceover/voiceover.mp3
+2023-11-29 17:13:58,216 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 41/txt/Space41.txt
+2023-11-29 17:13:58,216 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 41
+2023-11-29 17:13:58,218 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 42
+2023-11-29 17:13:58,218 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 42/videos
+2023-11-29 17:13:58,219 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 42/videos
+2023-11-29 17:13:58,245 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 42/img/mainImage.jpg
+2023-11-29 17:13:58,267 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 42/img/mainImageShown.jpg
+2023-11-29 17:13:58,600 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 42/voiceover/voiceover.mp3
+2023-11-29 17:13:58,600 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 42/txt/Space42.txt
+2023-11-29 17:13:58,600 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 42
+2023-11-29 17:13:58,604 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 43
+2023-11-29 17:13:58,604 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 43/videos
+2023-11-29 17:13:58,605 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 43/videos
+2023-11-29 17:13:58,636 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 43/img/mainImage.jpg
+2023-11-29 17:13:58,657 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 43/img/mainImageShown.jpg
+2023-11-29 17:13:58,962 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 43/voiceover/voiceover.mp3
+2023-11-29 17:13:58,962 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 43/txt/Space43.txt
+2023-11-29 17:13:58,962 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 43
+2023-11-29 17:13:58,964 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 44
+2023-11-29 17:13:58,965 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 44/videos
+2023-11-29 17:13:58,965 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 44/videos
+2023-11-29 17:13:58,988 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 44/img/mainImage.jpg
+2023-11-29 17:13:59,007 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 44/img/mainImageShown.jpg
+2023-11-29 17:13:59,300 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 44/voiceover/voiceover.mp3
+2023-11-29 17:13:59,301 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 44/txt/Space44.txt
+2023-11-29 17:13:59,301 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 44
+2023-11-29 17:13:59,302 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 45
+2023-11-29 17:13:59,302 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 45/videos
+2023-11-29 17:13:59,303 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 45/videos
+2023-11-29 17:13:59,320 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 45/img/mainImage.jpg
+2023-11-29 17:13:59,343 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 45/img/mainImageShown.jpg
+2023-11-29 17:13:59,696 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 45/voiceover/voiceover.mp3
+2023-11-29 17:13:59,696 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 45/txt/Space45.txt
+2023-11-29 17:13:59,696 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 45
+2023-11-29 17:13:59,698 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 46
+2023-11-29 17:13:59,698 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 46/videos
+2023-11-29 17:13:59,698 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 46/videos
+2023-11-29 17:13:59,719 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 46/img/mainImage.jpg
+2023-11-29 17:13:59,738 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 46/img/mainImageShown.jpg
+2023-11-29 17:14:00,118 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 46/voiceover/voiceover.mp3
+2023-11-29 17:14:00,118 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 46/txt/Space46.txt
+2023-11-29 17:14:00,119 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 46
+2023-11-29 17:14:00,121 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 47
+2023-11-29 17:14:00,121 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 47/videos
+2023-11-29 17:14:00,121 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 47/videos
+2023-11-29 17:14:00,140 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 47/img/mainImage.jpg
+2023-11-29 17:14:00,164 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 47/img/mainImageShown.jpg
+2023-11-29 17:14:00,588 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 47/voiceover/voiceover.mp3
+2023-11-29 17:14:00,588 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 47/txt/Space47.txt
+2023-11-29 17:14:00,588 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 47
+2023-11-29 17:14:00,591 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 48
+2023-11-29 17:14:00,591 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 48/videos
+2023-11-29 17:14:00,592 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 48/videos
+2023-11-29 17:14:00,620 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 48/img/mainImage.jpg
+2023-11-29 17:14:00,640 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 48/img/mainImageShown.jpg
+2023-11-29 17:14:01,095 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 48/voiceover/voiceover.mp3
+2023-11-29 17:14:01,096 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 48/txt/Space48.txt
+2023-11-29 17:14:01,096 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 48
+2023-11-29 17:14:01,098 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 49
+2023-11-29 17:14:01,099 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 49/videos
+2023-11-29 17:14:01,100 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 49/videos
+2023-11-29 17:14:01,126 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 49/img/mainImage.jpg
+2023-11-29 17:14:01,148 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 49/img/mainImageShown.jpg
+2023-11-29 17:14:01,629 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 49/voiceover/voiceover.mp3
+2023-11-29 17:14:01,630 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 49/txt/Space49.txt
+2023-11-29 17:14:01,630 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 49
+2023-11-29 17:14:01,632 - INFO - Created new project folder: ./NEW_PROJECTS/space/Space 50
+2023-11-29 17:14:01,633 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/space/Space 50/videos
+2023-11-29 17:14:01,633 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/space/Space 50/videos
+2023-11-29 17:14:01,660 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 50/img/mainImage.jpg
+2023-11-29 17:14:01,682 - INFO - Created placeholder image at ./NEW_PROJECTS/space/Space 50/img/mainImageShown.jpg
+2023-11-29 17:14:02,075 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/space/Space 50/voiceover/voiceover.mp3
+2023-11-29 17:14:02,075 - INFO - Created voiceover text file: ./NEW_PROJECTS/space/Space 50/txt/Space50.txt
+2023-11-29 17:14:02,075 - INFO - Ran After Effects script for ./NEW_PROJECTS/space/Space 50
+2023-11-29 17:14:02,079 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 1
+2023-11-29 17:14:02,079 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 1/videos
+2023-11-29 17:14:02,080 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 1/videos
+2023-11-29 17:14:02,107 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 1/img/mainImage.jpg
+2023-11-29 17:14:02,127 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 1/img/mainImageShown.jpg
+2023-11-29 17:14:02,750 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 1/voiceover/voiceover.mp3
+2023-11-29 17:14:02,751 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 1/txt/Jungle1.txt
+2023-11-29 17:14:02,751 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 1
+2023-11-29 17:14:02,754 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 2
+2023-11-29 17:14:02,755 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 2/videos
+2023-11-29 17:14:02,755 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 2/videos
+2023-11-29 17:14:02,783 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 2/img/mainImage.jpg
+2023-11-29 17:14:02,804 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 2/img/mainImageShown.jpg
+2023-11-29 17:14:03,580 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 2/voiceover/voiceover.mp3
+2023-11-29 17:14:03,581 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 2/txt/Jungle2.txt
+2023-11-29 17:14:03,581 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 2
+2023-11-29 17:14:03,584 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 3
+2023-11-29 17:14:03,584 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 3/videos
+2023-11-29 17:14:03,584 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 3/videos
+2023-11-29 17:14:03,610 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 3/img/mainImage.jpg
+2023-11-29 17:14:03,631 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 3/img/mainImageShown.jpg
+2023-11-29 17:14:04,480 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 3/voiceover/voiceover.mp3
+2023-11-29 17:14:04,481 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 3/txt/Jungle3.txt
+2023-11-29 17:14:04,481 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 3
+2023-11-29 17:14:04,484 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 4
+2023-11-29 17:14:04,485 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 4/videos
+2023-11-29 17:14:04,485 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 4/videos
+2023-11-29 17:14:04,514 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 4/img/mainImage.jpg
+2023-11-29 17:14:04,534 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 4/img/mainImageShown.jpg
+2023-11-29 17:14:05,317 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 4/voiceover/voiceover.mp3
+2023-11-29 17:14:05,318 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 4/txt/Jungle4.txt
+2023-11-29 17:14:05,318 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 4
+2023-11-29 17:14:05,320 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 5
+2023-11-29 17:14:05,321 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 5/videos
+2023-11-29 17:14:05,321 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 5/videos
+2023-11-29 17:14:05,349 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 5/img/mainImage.jpg
+2023-11-29 17:14:05,370 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 5/img/mainImageShown.jpg
+2023-11-29 17:14:06,187 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 5/voiceover/voiceover.mp3
+2023-11-29 17:14:06,188 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 5/txt/Jungle5.txt
+2023-11-29 17:14:06,188 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 5
+2023-11-29 17:14:06,190 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 6
+2023-11-29 17:14:06,191 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 6/videos
+2023-11-29 17:14:06,191 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 6/videos
+2023-11-29 17:14:06,211 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 6/img/mainImage.jpg
+2023-11-29 17:14:06,232 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 6/img/mainImageShown.jpg
+2023-11-29 17:14:07,199 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 6/voiceover/voiceover.mp3
+2023-11-29 17:14:07,200 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 6/txt/Jungle6.txt
+2023-11-29 17:14:07,200 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 6
+2023-11-29 17:14:07,202 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 7
+2023-11-29 17:14:07,203 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 7/videos
+2023-11-29 17:14:07,203 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 7/videos
+2023-11-29 17:14:07,229 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 7/img/mainImage.jpg
+2023-11-29 17:14:07,251 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 7/img/mainImageShown.jpg
+2023-11-29 17:14:07,796 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 7/voiceover/voiceover.mp3
+2023-11-29 17:14:07,797 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 7/txt/Jungle7.txt
+2023-11-29 17:14:07,797 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 7
+2023-11-29 17:14:07,799 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 8
+2023-11-29 17:14:07,799 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 8/videos
+2023-11-29 17:14:07,799 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 8/videos
+2023-11-29 17:14:07,825 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 8/img/mainImage.jpg
+2023-11-29 17:14:07,846 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 8/img/mainImageShown.jpg
+2023-11-29 17:14:08,431 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 8/voiceover/voiceover.mp3
+2023-11-29 17:14:08,432 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 8/txt/Jungle8.txt
+2023-11-29 17:14:08,432 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 8
+2023-11-29 17:14:08,434 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 9
+2023-11-29 17:14:08,435 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 9/videos
+2023-11-29 17:14:08,435 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 9/videos
+2023-11-29 17:14:08,461 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 9/img/mainImage.jpg
+2023-11-29 17:14:08,480 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 9/img/mainImageShown.jpg
+2023-11-29 17:14:09,375 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 9/voiceover/voiceover.mp3
+2023-11-29 17:14:09,376 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 9/txt/Jungle9.txt
+2023-11-29 17:14:09,376 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 9
+2023-11-29 17:14:09,380 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 10
+2023-11-29 17:14:09,380 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 10/videos
+2023-11-29 17:14:09,381 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 10/videos
+2023-11-29 17:14:09,410 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 10/img/mainImage.jpg
+2023-11-29 17:14:09,431 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 10/img/mainImageShown.jpg
+2023-11-29 17:14:10,051 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 10/voiceover/voiceover.mp3
+2023-11-29 17:14:10,052 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 10/txt/Jungle10.txt
+2023-11-29 17:14:10,052 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 10
+2023-11-29 17:14:10,054 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 11
+2023-11-29 17:14:10,055 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 11/videos
+2023-11-29 17:14:10,055 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 11/videos
+2023-11-29 17:14:10,081 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 11/img/mainImage.jpg
+2023-11-29 17:14:10,100 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 11/img/mainImageShown.jpg
+2023-11-29 17:14:10,682 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 11/voiceover/voiceover.mp3
+2023-11-29 17:14:10,683 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 11/txt/Jungle11.txt
+2023-11-29 17:14:10,683 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 11
+2023-11-29 17:14:10,685 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 12
+2023-11-29 17:14:10,685 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 12/videos
+2023-11-29 17:14:10,686 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 12/videos
+2023-11-29 17:14:10,710 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 12/img/mainImage.jpg
+2023-11-29 17:14:10,728 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 12/img/mainImageShown.jpg
+2023-11-29 17:14:11,182 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 12/voiceover/voiceover.mp3
+2023-11-29 17:14:11,183 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 12/txt/Jungle12.txt
+2023-11-29 17:14:11,183 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 12
+2023-11-29 17:14:11,185 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 13
+2023-11-29 17:14:11,186 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 13/videos
+2023-11-29 17:14:11,186 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 13/videos
+2023-11-29 17:14:11,209 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 13/img/mainImage.jpg
+2023-11-29 17:14:11,232 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 13/img/mainImageShown.jpg
+2023-11-29 17:14:11,552 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 13/voiceover/voiceover.mp3
+2023-11-29 17:14:11,553 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 13/txt/Jungle13.txt
+2023-11-29 17:14:11,553 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 13
+2023-11-29 17:14:11,557 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 14
+2023-11-29 17:14:11,558 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 14/videos
+2023-11-29 17:14:11,559 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 14/videos
+2023-11-29 17:14:11,589 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 14/img/mainImage.jpg
+2023-11-29 17:14:11,610 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 14/img/mainImageShown.jpg
+2023-11-29 17:14:11,904 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 14/voiceover/voiceover.mp3
+2023-11-29 17:14:11,904 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 14/txt/Jungle14.txt
+2023-11-29 17:14:11,904 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 14
+2023-11-29 17:14:11,906 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 15
+2023-11-29 17:14:11,907 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 15/videos
+2023-11-29 17:14:11,907 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 15/videos
+2023-11-29 17:14:11,933 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 15/img/mainImage.jpg
+2023-11-29 17:14:11,953 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 15/img/mainImageShown.jpg
+2023-11-29 17:14:12,301 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 15/voiceover/voiceover.mp3
+2023-11-29 17:14:12,301 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 15/txt/Jungle15.txt
+2023-11-29 17:14:12,302 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 15
+2023-11-29 17:14:12,303 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 16
+2023-11-29 17:14:12,303 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 16/videos
+2023-11-29 17:14:12,303 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 16/videos
+2023-11-29 17:14:12,323 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 16/img/mainImage.jpg
+2023-11-29 17:14:12,341 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 16/img/mainImageShown.jpg
+2023-11-29 17:14:12,716 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 16/voiceover/voiceover.mp3
+2023-11-29 17:14:12,717 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 16/txt/Jungle16.txt
+2023-11-29 17:14:12,717 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 16
+2023-11-29 17:14:12,719 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 17
+2023-11-29 17:14:12,719 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 17/videos
+2023-11-29 17:14:12,720 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 17/videos
+2023-11-29 17:14:12,744 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 17/img/mainImage.jpg
+2023-11-29 17:14:12,763 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 17/img/mainImageShown.jpg
+2023-11-29 17:14:13,120 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 17/voiceover/voiceover.mp3
+2023-11-29 17:14:13,120 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 17/txt/Jungle17.txt
+2023-11-29 17:14:13,120 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 17
+2023-11-29 17:14:13,123 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 18
+2023-11-29 17:14:13,123 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 18/videos
+2023-11-29 17:14:13,123 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 18/videos
+2023-11-29 17:14:13,146 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 18/img/mainImage.jpg
+2023-11-29 17:14:13,169 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 18/img/mainImageShown.jpg
+2023-11-29 17:14:13,600 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 18/voiceover/voiceover.mp3
+2023-11-29 17:14:13,601 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 18/txt/Jungle18.txt
+2023-11-29 17:14:13,601 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 18
+2023-11-29 17:14:13,602 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 19
+2023-11-29 17:14:13,602 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 19/videos
+2023-11-29 17:14:13,602 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 19/videos
+2023-11-29 17:14:13,623 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 19/img/mainImage.jpg
+2023-11-29 17:14:13,646 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 19/img/mainImageShown.jpg
+2023-11-29 17:14:14,053 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 19/voiceover/voiceover.mp3
+2023-11-29 17:14:14,053 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 19/txt/Jungle19.txt
+2023-11-29 17:14:14,054 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 19
+2023-11-29 17:14:14,056 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 20
+2023-11-29 17:14:14,057 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 20/videos
+2023-11-29 17:14:14,057 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 20/videos
+2023-11-29 17:14:14,084 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 20/img/mainImage.jpg
+2023-11-29 17:14:14,105 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 20/img/mainImageShown.jpg
+2023-11-29 17:14:14,484 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 20/voiceover/voiceover.mp3
+2023-11-29 17:14:14,485 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 20/txt/Jungle20.txt
+2023-11-29 17:14:14,486 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 20
+2023-11-29 17:14:14,489 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 21
+2023-11-29 17:14:14,490 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 21/videos
+2023-11-29 17:14:14,490 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 21/videos
+2023-11-29 17:14:14,519 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 21/img/mainImage.jpg
+2023-11-29 17:14:14,540 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 21/img/mainImageShown.jpg
+2023-11-29 17:14:14,851 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 21/voiceover/voiceover.mp3
+2023-11-29 17:14:14,852 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 21/txt/Jungle21.txt
+2023-11-29 17:14:14,852 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 21
+2023-11-29 17:14:14,855 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 22
+2023-11-29 17:14:14,856 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 22/videos
+2023-11-29 17:14:14,856 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 22/videos
+2023-11-29 17:14:14,885 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 22/img/mainImage.jpg
+2023-11-29 17:14:14,906 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 22/img/mainImageShown.jpg
+2023-11-29 17:14:15,180 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 22/voiceover/voiceover.mp3
+2023-11-29 17:14:15,180 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 22/txt/Jungle22.txt
+2023-11-29 17:14:15,180 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 22
+2023-11-29 17:14:15,182 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 23
+2023-11-29 17:14:15,183 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 23/videos
+2023-11-29 17:14:15,183 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 23/videos
+2023-11-29 17:14:15,209 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 23/img/mainImage.jpg
+2023-11-29 17:14:15,231 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 23/img/mainImageShown.jpg
+2023-11-29 17:14:15,618 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 23/voiceover/voiceover.mp3
+2023-11-29 17:14:15,619 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 23/txt/Jungle23.txt
+2023-11-29 17:14:15,619 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 23
+2023-11-29 17:14:15,623 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 24
+2023-11-29 17:14:15,623 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 24/videos
+2023-11-29 17:14:15,624 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 24/videos
+2023-11-29 17:14:15,653 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 24/img/mainImage.jpg
+2023-11-29 17:14:15,674 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 24/img/mainImageShown.jpg
+2023-11-29 17:14:15,980 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 24/voiceover/voiceover.mp3
+2023-11-29 17:14:15,981 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 24/txt/Jungle24.txt
+2023-11-29 17:14:15,981 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 24
+2023-11-29 17:14:15,983 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 25
+2023-11-29 17:14:15,983 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 25/videos
+2023-11-29 17:14:15,983 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 25/videos
+2023-11-29 17:14:16,007 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 25/img/mainImage.jpg
+2023-11-29 17:14:16,027 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 25/img/mainImageShown.jpg
+2023-11-29 17:14:16,437 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 25/voiceover/voiceover.mp3
+2023-11-29 17:14:16,438 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 25/txt/Jungle25.txt
+2023-11-29 17:14:16,438 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 25
+2023-11-29 17:14:16,443 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 26
+2023-11-29 17:14:16,444 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 26/videos
+2023-11-29 17:14:16,444 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 26/videos
+2023-11-29 17:14:16,473 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 26/img/mainImage.jpg
+2023-11-29 17:14:16,494 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 26/img/mainImageShown.jpg
+2023-11-29 17:14:16,884 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 26/voiceover/voiceover.mp3
+2023-11-29 17:14:16,884 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 26/txt/Jungle26.txt
+2023-11-29 17:14:16,885 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 26
+2023-11-29 17:14:16,888 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 27
+2023-11-29 17:14:16,889 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 27/videos
+2023-11-29 17:14:16,889 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 27/videos
+2023-11-29 17:14:16,918 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 27/img/mainImage.jpg
+2023-11-29 17:14:16,939 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 27/img/mainImageShown.jpg
+2023-11-29 17:14:17,257 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 27/voiceover/voiceover.mp3
+2023-11-29 17:14:17,257 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 27/txt/Jungle27.txt
+2023-11-29 17:14:17,258 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 27
+2023-11-29 17:14:17,261 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 28
+2023-11-29 17:14:17,262 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 28/videos
+2023-11-29 17:14:17,262 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 28/videos
+2023-11-29 17:14:17,291 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 28/img/mainImage.jpg
+2023-11-29 17:14:17,312 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 28/img/mainImageShown.jpg
+2023-11-29 17:14:17,657 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 28/voiceover/voiceover.mp3
+2023-11-29 17:14:17,657 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 28/txt/Jungle28.txt
+2023-11-29 17:14:17,657 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 28
+2023-11-29 17:14:17,659 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 29
+2023-11-29 17:14:17,660 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 29/videos
+2023-11-29 17:14:17,660 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 29/videos
+2023-11-29 17:14:17,685 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 29/img/mainImage.jpg
+2023-11-29 17:14:17,705 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 29/img/mainImageShown.jpg
+2023-11-29 17:14:18,040 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 29/voiceover/voiceover.mp3
+2023-11-29 17:14:18,042 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 29/txt/Jungle29.txt
+2023-11-29 17:14:18,042 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 29
+2023-11-29 17:14:18,044 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 30
+2023-11-29 17:14:18,045 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 30/videos
+2023-11-29 17:14:18,045 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 30/videos
+2023-11-29 17:14:18,070 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 30/img/mainImage.jpg
+2023-11-29 17:14:18,091 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 30/img/mainImageShown.jpg
+2023-11-29 17:14:18,412 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 30/voiceover/voiceover.mp3
+2023-11-29 17:14:18,412 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 30/txt/Jungle30.txt
+2023-11-29 17:14:18,412 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 30
+2023-11-29 17:14:18,414 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 31
+2023-11-29 17:14:18,414 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 31/videos
+2023-11-29 17:14:18,415 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 31/videos
+2023-11-29 17:14:18,438 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 31/img/mainImage.jpg
+2023-11-29 17:14:18,458 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 31/img/mainImageShown.jpg
+2023-11-29 17:14:18,838 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 31/voiceover/voiceover.mp3
+2023-11-29 17:14:18,839 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 31/txt/Jungle31.txt
+2023-11-29 17:14:18,840 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 31
+2023-11-29 17:14:18,843 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 32
+2023-11-29 17:14:18,844 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 32/videos
+2023-11-29 17:14:18,844 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 32/videos
+2023-11-29 17:14:18,873 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 32/img/mainImage.jpg
+2023-11-29 17:14:18,895 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 32/img/mainImageShown.jpg
+2023-11-29 17:14:19,187 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 32/voiceover/voiceover.mp3
+2023-11-29 17:14:19,187 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 32/txt/Jungle32.txt
+2023-11-29 17:14:19,188 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 32
+2023-11-29 17:14:19,190 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 33
+2023-11-29 17:14:19,190 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 33/videos
+2023-11-29 17:14:19,191 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 33/videos
+2023-11-29 17:14:19,214 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 33/img/mainImage.jpg
+2023-11-29 17:14:19,234 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 33/img/mainImageShown.jpg
+2023-11-29 17:14:19,606 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 33/voiceover/voiceover.mp3
+2023-11-29 17:14:19,607 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 33/txt/Jungle33.txt
+2023-11-29 17:14:19,607 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 33
+2023-11-29 17:14:19,610 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 34
+2023-11-29 17:14:19,611 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 34/videos
+2023-11-29 17:14:19,611 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 34/videos
+2023-11-29 17:14:19,640 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 34/img/mainImage.jpg
+2023-11-29 17:14:19,661 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 34/img/mainImageShown.jpg
+2023-11-29 17:14:20,017 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 34/voiceover/voiceover.mp3
+2023-11-29 17:14:20,018 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 34/txt/Jungle34.txt
+2023-11-29 17:14:20,019 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 34
+2023-11-29 17:14:20,022 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 35
+2023-11-29 17:14:20,022 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 35/videos
+2023-11-29 17:14:20,023 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 35/videos
+2023-11-29 17:14:20,051 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 35/img/mainImage.jpg
+2023-11-29 17:14:20,073 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 35/img/mainImageShown.jpg
+2023-11-29 17:14:20,368 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 35/voiceover/voiceover.mp3
+2023-11-29 17:14:20,369 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 35/txt/Jungle35.txt
+2023-11-29 17:14:20,369 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 35
+2023-11-29 17:14:20,373 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 36
+2023-11-29 17:14:20,374 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 36/videos
+2023-11-29 17:14:20,374 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 36/videos
+2023-11-29 17:14:20,403 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 36/img/mainImage.jpg
+2023-11-29 17:14:20,425 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 36/img/mainImageShown.jpg
+2023-11-29 17:14:20,761 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 36/voiceover/voiceover.mp3
+2023-11-29 17:14:20,761 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 36/txt/Jungle36.txt
+2023-11-29 17:14:20,761 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 36
+2023-11-29 17:14:20,764 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 37
+2023-11-29 17:14:20,764 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 37/videos
+2023-11-29 17:14:20,764 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 37/videos
+2023-11-29 17:14:20,787 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 37/img/mainImage.jpg
+2023-11-29 17:14:20,806 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 37/img/mainImageShown.jpg
+2023-11-29 17:14:21,118 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 37/voiceover/voiceover.mp3
+2023-11-29 17:14:21,118 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 37/txt/Jungle37.txt
+2023-11-29 17:14:21,118 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 37
+2023-11-29 17:14:21,121 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 38
+2023-11-29 17:14:21,121 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 38/videos
+2023-11-29 17:14:21,121 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 38/videos
+2023-11-29 17:14:21,149 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 38/img/mainImage.jpg
+2023-11-29 17:14:21,170 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 38/img/mainImageShown.jpg
+2023-11-29 17:14:21,527 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 38/voiceover/voiceover.mp3
+2023-11-29 17:14:21,527 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 38/txt/Jungle38.txt
+2023-11-29 17:14:21,527 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 38
+2023-11-29 17:14:21,529 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 39
+2023-11-29 17:14:21,530 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 39/videos
+2023-11-29 17:14:21,530 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 39/videos
+2023-11-29 17:14:21,551 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 39/img/mainImage.jpg
+2023-11-29 17:14:21,567 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 39/img/mainImageShown.jpg
+2023-11-29 17:14:21,873 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 39/voiceover/voiceover.mp3
+2023-11-29 17:14:21,874 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 39/txt/Jungle39.txt
+2023-11-29 17:14:21,874 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 39
+2023-11-29 17:14:21,878 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 40
+2023-11-29 17:14:21,878 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 40/videos
+2023-11-29 17:14:21,879 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 40/videos
+2023-11-29 17:14:21,908 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 40/img/mainImage.jpg
+2023-11-29 17:14:21,928 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 40/img/mainImageShown.jpg
+2023-11-29 17:14:22,302 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 40/voiceover/voiceover.mp3
+2023-11-29 17:14:22,302 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 40/txt/Jungle40.txt
+2023-11-29 17:14:22,302 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 40
+2023-11-29 17:14:22,305 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 41
+2023-11-29 17:14:22,305 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 41/videos
+2023-11-29 17:14:22,305 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 41/videos
+2023-11-29 17:14:22,330 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 41/img/mainImage.jpg
+2023-11-29 17:14:22,350 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 41/img/mainImageShown.jpg
+2023-11-29 17:14:22,734 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 41/voiceover/voiceover.mp3
+2023-11-29 17:14:22,735 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 41/txt/Jungle41.txt
+2023-11-29 17:14:22,735 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 41
+2023-11-29 17:14:22,737 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 42
+2023-11-29 17:14:22,738 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 42/videos
+2023-11-29 17:14:22,738 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 42/videos
+2023-11-29 17:14:22,765 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 42/img/mainImage.jpg
+2023-11-29 17:14:22,785 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 42/img/mainImageShown.jpg
+2023-11-29 17:14:23,102 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 42/voiceover/voiceover.mp3
+2023-11-29 17:14:23,102 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 42/txt/Jungle42.txt
+2023-11-29 17:14:23,103 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 42
+2023-11-29 17:14:23,105 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 43
+2023-11-29 17:14:23,105 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 43/videos
+2023-11-29 17:14:23,105 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 43/videos
+2023-11-29 17:14:23,131 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 43/img/mainImage.jpg
+2023-11-29 17:14:23,151 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 43/img/mainImageShown.jpg
+2023-11-29 17:14:23,603 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 43/voiceover/voiceover.mp3
+2023-11-29 17:14:23,603 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 43/txt/Jungle43.txt
+2023-11-29 17:14:23,603 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 43
+2023-11-29 17:14:23,606 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 44
+2023-11-29 17:14:23,606 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 44/videos
+2023-11-29 17:14:23,606 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 44/videos
+2023-11-29 17:14:23,634 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 44/img/mainImage.jpg
+2023-11-29 17:14:23,654 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 44/img/mainImageShown.jpg
+2023-11-29 17:14:23,924 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 44/voiceover/voiceover.mp3
+2023-11-29 17:14:23,925 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 44/txt/Jungle44.txt
+2023-11-29 17:14:23,925 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 44
+2023-11-29 17:14:23,928 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 45
+2023-11-29 17:14:23,928 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 45/videos
+2023-11-29 17:14:23,928 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 45/videos
+2023-11-29 17:14:23,956 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 45/img/mainImage.jpg
+2023-11-29 17:14:23,977 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 45/img/mainImageShown.jpg
+2023-11-29 17:14:24,333 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 45/voiceover/voiceover.mp3
+2023-11-29 17:14:24,334 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 45/txt/Jungle45.txt
+2023-11-29 17:14:24,334 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 45
+2023-11-29 17:14:24,337 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 46
+2023-11-29 17:14:24,338 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 46/videos
+2023-11-29 17:14:24,338 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 46/videos
+2023-11-29 17:14:24,369 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 46/img/mainImage.jpg
+2023-11-29 17:14:24,390 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 46/img/mainImageShown.jpg
+2023-11-29 17:14:24,707 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 46/voiceover/voiceover.mp3
+2023-11-29 17:14:24,708 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 46/txt/Jungle46.txt
+2023-11-29 17:14:24,708 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 46
+2023-11-29 17:14:24,710 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 47
+2023-11-29 17:14:24,710 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 47/videos
+2023-11-29 17:14:24,710 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 47/videos
+2023-11-29 17:14:24,735 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 47/img/mainImage.jpg
+2023-11-29 17:14:24,755 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 47/img/mainImageShown.jpg
+2023-11-29 17:14:25,070 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 47/voiceover/voiceover.mp3
+2023-11-29 17:14:25,071 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 47/txt/Jungle47.txt
+2023-11-29 17:14:25,072 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 47
+2023-11-29 17:14:25,075 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 48
+2023-11-29 17:14:25,076 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 48/videos
+2023-11-29 17:14:25,076 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 48/videos
+2023-11-29 17:14:25,105 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 48/img/mainImage.jpg
+2023-11-29 17:14:25,126 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 48/img/mainImageShown.jpg
+2023-11-29 17:14:25,443 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 48/voiceover/voiceover.mp3
+2023-11-29 17:14:25,443 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 48/txt/Jungle48.txt
+2023-11-29 17:14:25,443 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 48
+2023-11-29 17:14:25,445 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 49
+2023-11-29 17:14:25,446 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 49/videos
+2023-11-29 17:14:25,446 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 49/videos
+2023-11-29 17:14:25,469 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 49/img/mainImage.jpg
+2023-11-29 17:14:25,487 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 49/img/mainImageShown.jpg
+2023-11-29 17:14:25,760 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 49/voiceover/voiceover.mp3
+2023-11-29 17:14:25,761 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 49/txt/Jungle49.txt
+2023-11-29 17:14:25,762 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 49
+2023-11-29 17:14:25,765 - INFO - Created new project folder: ./NEW_PROJECTS/jungle/Jungle 50
+2023-11-29 17:14:25,765 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/jungle/Jungle 50/videos
+2023-11-29 17:14:25,765 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/jungle/Jungle 50/videos
+2023-11-29 17:14:25,794 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 50/img/mainImage.jpg
+2023-11-29 17:14:25,815 - INFO - Created placeholder image at ./NEW_PROJECTS/jungle/Jungle 50/img/mainImageShown.jpg
+2023-11-29 17:14:26,206 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/jungle/Jungle 50/voiceover/voiceover.mp3
+2023-11-29 17:14:26,207 - INFO - Created voiceover text file: ./NEW_PROJECTS/jungle/Jungle 50/txt/Jungle50.txt
+2023-11-29 17:14:26,207 - INFO - Ran After Effects script for ./NEW_PROJECTS/jungle/Jungle 50
+2023-11-29 17:14:26,210 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 1
+2023-11-29 17:14:26,211 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 1/videos
+2023-11-29 17:14:26,211 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 1/videos
+2023-11-29 17:14:26,235 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 1/img/mainImage.jpg
+2023-11-29 17:14:26,254 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 1/img/mainImageShown.jpg
+2023-11-29 17:14:26,708 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 1/voiceover/voiceover.mp3
+2023-11-29 17:14:26,708 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 1/txt/City1.txt
+2023-11-29 17:14:26,708 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 1
+2023-11-29 17:14:26,710 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 2
+2023-11-29 17:14:26,710 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 2/videos
+2023-11-29 17:14:26,711 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 2/videos
+2023-11-29 17:14:26,736 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 2/img/mainImage.jpg
+2023-11-29 17:14:26,759 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 2/img/mainImageShown.jpg
+2023-11-29 17:14:27,105 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 2/voiceover/voiceover.mp3
+2023-11-29 17:14:27,106 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 2/txt/City2.txt
+2023-11-29 17:14:27,107 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 2
+2023-11-29 17:14:27,110 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 3
+2023-11-29 17:14:27,111 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 3/videos
+2023-11-29 17:14:27,111 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 3/videos
+2023-11-29 17:14:27,140 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 3/img/mainImage.jpg
+2023-11-29 17:14:27,162 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 3/img/mainImageShown.jpg
+2023-11-29 17:14:27,486 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 3/voiceover/voiceover.mp3
+2023-11-29 17:14:27,486 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 3/txt/City3.txt
+2023-11-29 17:14:27,486 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 3
+2023-11-29 17:14:27,488 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 4
+2023-11-29 17:14:27,489 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 4/videos
+2023-11-29 17:14:27,489 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 4/videos
+2023-11-29 17:14:27,513 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 4/img/mainImage.jpg
+2023-11-29 17:14:27,532 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 4/img/mainImageShown.jpg
+2023-11-29 17:14:27,903 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 4/voiceover/voiceover.mp3
+2023-11-29 17:14:27,904 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 4/txt/City4.txt
+2023-11-29 17:14:27,904 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 4
+2023-11-29 17:14:27,907 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 5
+2023-11-29 17:14:27,908 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 5/videos
+2023-11-29 17:14:27,908 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 5/videos
+2023-11-29 17:14:27,938 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 5/img/mainImage.jpg
+2023-11-29 17:14:27,960 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 5/img/mainImageShown.jpg
+2023-11-29 17:14:28,245 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 5/voiceover/voiceover.mp3
+2023-11-29 17:14:28,246 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 5/txt/City5.txt
+2023-11-29 17:14:28,246 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 5
+2023-11-29 17:14:28,247 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 6
+2023-11-29 17:14:28,248 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 6/videos
+2023-11-29 17:14:28,248 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 6/videos
+2023-11-29 17:14:28,272 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 6/img/mainImage.jpg
+2023-11-29 17:14:28,294 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 6/img/mainImageShown.jpg
+2023-11-29 17:14:28,643 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 6/voiceover/voiceover.mp3
+2023-11-29 17:14:28,644 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 6/txt/City6.txt
+2023-11-29 17:14:28,644 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 6
+2023-11-29 17:14:28,648 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 7
+2023-11-29 17:14:28,649 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 7/videos
+2023-11-29 17:14:28,649 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 7/videos
+2023-11-29 17:14:28,678 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 7/img/mainImage.jpg
+2023-11-29 17:14:28,699 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 7/img/mainImageShown.jpg
+2023-11-29 17:14:29,003 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 7/voiceover/voiceover.mp3
+2023-11-29 17:14:29,004 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 7/txt/City7.txt
+2023-11-29 17:14:29,004 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 7
+2023-11-29 17:14:29,006 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 8
+2023-11-29 17:14:29,006 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 8/videos
+2023-11-29 17:14:29,007 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 8/videos
+2023-11-29 17:14:29,030 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 8/img/mainImage.jpg
+2023-11-29 17:14:29,049 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 8/img/mainImageShown.jpg
+2023-11-29 17:14:29,312 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 8/voiceover/voiceover.mp3
+2023-11-29 17:14:29,312 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 8/txt/City8.txt
+2023-11-29 17:14:29,313 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 8
+2023-11-29 17:14:29,318 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 9
+2023-11-29 17:14:29,318 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 9/videos
+2023-11-29 17:14:29,319 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 9/videos
+2023-11-29 17:14:29,348 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 9/img/mainImage.jpg
+2023-11-29 17:14:29,369 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 9/img/mainImageShown.jpg
+2023-11-29 17:14:29,745 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 9/voiceover/voiceover.mp3
+2023-11-29 17:14:29,745 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 9/txt/City9.txt
+2023-11-29 17:14:29,745 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 9
+2023-11-29 17:14:29,747 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 10
+2023-11-29 17:14:29,747 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 10/videos
+2023-11-29 17:14:29,747 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 10/videos
+2023-11-29 17:14:29,769 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 10/img/mainImage.jpg
+2023-11-29 17:14:29,788 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 10/img/mainImageShown.jpg
+2023-11-29 17:14:30,164 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 10/voiceover/voiceover.mp3
+2023-11-29 17:14:30,165 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 10/txt/City10.txt
+2023-11-29 17:14:30,165 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 10
+2023-11-29 17:14:30,168 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 11
+2023-11-29 17:14:30,169 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 11/videos
+2023-11-29 17:14:30,169 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 11/videos
+2023-11-29 17:14:30,200 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 11/img/mainImage.jpg
+2023-11-29 17:14:30,222 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 11/img/mainImageShown.jpg
+2023-11-29 17:14:30,575 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 11/voiceover/voiceover.mp3
+2023-11-29 17:14:30,576 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 11/txt/City11.txt
+2023-11-29 17:14:30,576 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 11
+2023-11-29 17:14:30,578 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 12
+2023-11-29 17:14:30,579 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 12/videos
+2023-11-29 17:14:30,579 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 12/videos
+2023-11-29 17:14:30,607 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 12/img/mainImage.jpg
+2023-11-29 17:14:30,628 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 12/img/mainImageShown.jpg
+2023-11-29 17:14:30,986 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 12/voiceover/voiceover.mp3
+2023-11-29 17:14:30,987 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 12/txt/City12.txt
+2023-11-29 17:14:30,987 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 12
+2023-11-29 17:14:30,991 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 13
+2023-11-29 17:14:30,991 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 13/videos
+2023-11-29 17:14:30,992 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 13/videos
+2023-11-29 17:14:31,021 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 13/img/mainImage.jpg
+2023-11-29 17:14:31,042 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 13/img/mainImageShown.jpg
+2023-11-29 17:14:31,340 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 13/voiceover/voiceover.mp3
+2023-11-29 17:14:31,341 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 13/txt/City13.txt
+2023-11-29 17:14:31,341 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 13
+2023-11-29 17:14:31,344 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 14
+2023-11-29 17:14:31,344 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 14/videos
+2023-11-29 17:14:31,344 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 14/videos
+2023-11-29 17:14:31,367 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 14/img/mainImage.jpg
+2023-11-29 17:14:31,386 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 14/img/mainImageShown.jpg
+2023-11-29 17:14:31,691 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 14/voiceover/voiceover.mp3
+2023-11-29 17:14:31,692 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 14/txt/City14.txt
+2023-11-29 17:14:31,692 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 14
+2023-11-29 17:14:31,695 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 15
+2023-11-29 17:14:31,696 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 15/videos
+2023-11-29 17:14:31,697 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 15/videos
+2023-11-29 17:14:31,727 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 15/img/mainImage.jpg
+2023-11-29 17:14:31,749 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 15/img/mainImageShown.jpg
+2023-11-29 17:14:32,102 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 15/voiceover/voiceover.mp3
+2023-11-29 17:14:32,102 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 15/txt/City15.txt
+2023-11-29 17:14:32,102 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 15
+2023-11-29 17:14:32,104 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 16
+2023-11-29 17:14:32,104 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 16/videos
+2023-11-29 17:14:32,105 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 16/videos
+2023-11-29 17:14:32,129 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 16/img/mainImage.jpg
+2023-11-29 17:14:32,150 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 16/img/mainImageShown.jpg
+2023-11-29 17:14:32,512 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 16/voiceover/voiceover.mp3
+2023-11-29 17:14:32,513 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 16/txt/City16.txt
+2023-11-29 17:14:32,513 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 16
+2023-11-29 17:14:32,515 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 17
+2023-11-29 17:14:32,516 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 17/videos
+2023-11-29 17:14:32,516 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 17/videos
+2023-11-29 17:14:32,545 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 17/img/mainImage.jpg
+2023-11-29 17:14:32,566 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 17/img/mainImageShown.jpg
+2023-11-29 17:14:32,922 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 17/voiceover/voiceover.mp3
+2023-11-29 17:14:32,923 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 17/txt/City17.txt
+2023-11-29 17:14:32,923 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 17
+2023-11-29 17:14:32,926 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 18
+2023-11-29 17:14:32,926 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 18/videos
+2023-11-29 17:14:32,926 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 18/videos
+2023-11-29 17:14:32,955 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 18/img/mainImage.jpg
+2023-11-29 17:14:32,976 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 18/img/mainImageShown.jpg
+2023-11-29 17:14:33,299 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 18/voiceover/voiceover.mp3
+2023-11-29 17:14:33,299 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 18/txt/City18.txt
+2023-11-29 17:14:33,299 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 18
+2023-11-29 17:14:33,303 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 19
+2023-11-29 17:14:33,304 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 19/videos
+2023-11-29 17:14:33,304 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 19/videos
+2023-11-29 17:14:33,333 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 19/img/mainImage.jpg
+2023-11-29 17:14:33,354 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 19/img/mainImageShown.jpg
+2023-11-29 17:14:33,726 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 19/voiceover/voiceover.mp3
+2023-11-29 17:14:33,726 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 19/txt/City19.txt
+2023-11-29 17:14:33,727 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 19
+2023-11-29 17:14:33,728 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 20
+2023-11-29 17:14:33,729 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 20/videos
+2023-11-29 17:14:33,729 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 20/videos
+2023-11-29 17:14:33,756 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 20/img/mainImage.jpg
+2023-11-29 17:14:33,777 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 20/img/mainImageShown.jpg
+2023-11-29 17:14:34,129 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 20/voiceover/voiceover.mp3
+2023-11-29 17:14:34,130 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 20/txt/City20.txt
+2023-11-29 17:14:34,130 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 20
+2023-11-29 17:14:34,133 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 21
+2023-11-29 17:14:34,133 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 21/videos
+2023-11-29 17:14:34,134 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 21/videos
+2023-11-29 17:14:34,162 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 21/img/mainImage.jpg
+2023-11-29 17:14:34,183 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 21/img/mainImageShown.jpg
+2023-11-29 17:14:34,486 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 21/voiceover/voiceover.mp3
+2023-11-29 17:14:34,487 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 21/txt/City21.txt
+2023-11-29 17:14:34,487 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 21
+2023-11-29 17:14:34,489 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 22
+2023-11-29 17:14:34,489 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 22/videos
+2023-11-29 17:14:34,489 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 22/videos
+2023-11-29 17:14:34,513 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 22/img/mainImage.jpg
+2023-11-29 17:14:34,532 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 22/img/mainImageShown.jpg
+2023-11-29 17:14:34,876 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 22/voiceover/voiceover.mp3
+2023-11-29 17:14:34,877 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 22/txt/City22.txt
+2023-11-29 17:14:34,877 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 22
+2023-11-29 17:14:34,878 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 23
+2023-11-29 17:14:34,879 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 23/videos
+2023-11-29 17:14:34,879 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 23/videos
+2023-11-29 17:14:34,905 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 23/img/mainImage.jpg
+2023-11-29 17:14:34,927 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 23/img/mainImageShown.jpg
+2023-11-29 17:14:35,221 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 23/voiceover/voiceover.mp3
+2023-11-29 17:14:35,222 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 23/txt/City23.txt
+2023-11-29 17:14:35,222 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 23
+2023-11-29 17:14:35,224 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 24
+2023-11-29 17:14:35,224 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 24/videos
+2023-11-29 17:14:35,225 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 24/videos
+2023-11-29 17:14:35,247 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 24/img/mainImage.jpg
+2023-11-29 17:14:35,265 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 24/img/mainImageShown.jpg
+2023-11-29 17:14:35,576 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 24/voiceover/voiceover.mp3
+2023-11-29 17:14:35,577 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 24/txt/City24.txt
+2023-11-29 17:14:35,577 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 24
+2023-11-29 17:14:35,580 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 25
+2023-11-29 17:14:35,581 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 25/videos
+2023-11-29 17:14:35,581 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 25/videos
+2023-11-29 17:14:35,611 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 25/img/mainImage.jpg
+2023-11-29 17:14:35,632 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 25/img/mainImageShown.jpg
+2023-11-29 17:14:35,961 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 25/voiceover/voiceover.mp3
+2023-11-29 17:14:35,961 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 25/txt/City25.txt
+2023-11-29 17:14:35,962 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 25
+2023-11-29 17:14:35,963 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 26
+2023-11-29 17:14:35,964 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 26/videos
+2023-11-29 17:14:35,964 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 26/videos
+2023-11-29 17:14:35,987 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 26/img/mainImage.jpg
+2023-11-29 17:14:36,005 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 26/img/mainImageShown.jpg
+2023-11-29 17:14:36,404 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 26/voiceover/voiceover.mp3
+2023-11-29 17:14:36,404 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 26/txt/City26.txt
+2023-11-29 17:14:36,405 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 26
+2023-11-29 17:14:36,408 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 27
+2023-11-29 17:14:36,409 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 27/videos
+2023-11-29 17:14:36,410 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 27/videos
+2023-11-29 17:14:36,439 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 27/img/mainImage.jpg
+2023-11-29 17:14:36,462 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 27/img/mainImageShown.jpg
+2023-11-29 17:14:36,912 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 27/voiceover/voiceover.mp3
+2023-11-29 17:14:36,913 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 27/txt/City27.txt
+2023-11-29 17:14:36,914 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 27
+2023-11-29 17:14:36,917 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 28
+2023-11-29 17:14:36,918 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 28/videos
+2023-11-29 17:14:36,918 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 28/videos
+2023-11-29 17:14:36,947 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 28/img/mainImage.jpg
+2023-11-29 17:14:36,969 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 28/img/mainImageShown.jpg
+2023-11-29 17:14:37,301 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 28/voiceover/voiceover.mp3
+2023-11-29 17:14:37,302 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 28/txt/City28.txt
+2023-11-29 17:14:37,302 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 28
+2023-11-29 17:14:37,305 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 29
+2023-11-29 17:14:37,306 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 29/videos
+2023-11-29 17:14:37,306 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 29/videos
+2023-11-29 17:14:37,334 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 29/img/mainImage.jpg
+2023-11-29 17:14:37,356 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 29/img/mainImageShown.jpg
+2023-11-29 17:14:37,640 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 29/voiceover/voiceover.mp3
+2023-11-29 17:14:37,640 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 29/txt/City29.txt
+2023-11-29 17:14:37,640 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 29
+2023-11-29 17:14:37,643 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 30
+2023-11-29 17:14:37,643 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 30/videos
+2023-11-29 17:14:37,643 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 30/videos
+2023-11-29 17:14:37,669 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 30/img/mainImage.jpg
+2023-11-29 17:14:37,688 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 30/img/mainImageShown.jpg
+2023-11-29 17:14:38,007 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 30/voiceover/voiceover.mp3
+2023-11-29 17:14:38,008 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 30/txt/City30.txt
+2023-11-29 17:14:38,008 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 30
+2023-11-29 17:14:38,011 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 31
+2023-11-29 17:14:38,012 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 31/videos
+2023-11-29 17:14:38,012 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 31/videos
+2023-11-29 17:14:38,036 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 31/img/mainImage.jpg
+2023-11-29 17:14:38,057 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 31/img/mainImageShown.jpg
+2023-11-29 17:14:38,376 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 31/voiceover/voiceover.mp3
+2023-11-29 17:14:38,376 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 31/txt/City31.txt
+2023-11-29 17:14:38,377 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 31
+2023-11-29 17:14:38,378 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 32
+2023-11-29 17:14:38,378 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 32/videos
+2023-11-29 17:14:38,378 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 32/videos
+2023-11-29 17:14:38,394 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 32/img/mainImage.jpg
+2023-11-29 17:14:38,409 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 32/img/mainImageShown.jpg
+2023-11-29 17:14:38,803 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 32/voiceover/voiceover.mp3
+2023-11-29 17:14:38,804 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 32/txt/City32.txt
+2023-11-29 17:14:38,804 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 32
+2023-11-29 17:14:38,808 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 33
+2023-11-29 17:14:38,808 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 33/videos
+2023-11-29 17:14:38,808 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 33/videos
+2023-11-29 17:14:38,837 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 33/img/mainImage.jpg
+2023-11-29 17:14:38,859 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 33/img/mainImageShown.jpg
+2023-11-29 17:14:39,493 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 33/voiceover/voiceover.mp3
+2023-11-29 17:14:39,494 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 33/txt/City33.txt
+2023-11-29 17:14:39,494 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 33
+2023-11-29 17:14:39,497 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 34
+2023-11-29 17:14:39,498 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 34/videos
+2023-11-29 17:14:39,498 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 34/videos
+2023-11-29 17:14:39,527 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 34/img/mainImage.jpg
+2023-11-29 17:14:39,548 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 34/img/mainImageShown.jpg
+2023-11-29 17:14:40,018 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 34/voiceover/voiceover.mp3
+2023-11-29 17:14:40,019 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 34/txt/City34.txt
+2023-11-29 17:14:40,019 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 34
+2023-11-29 17:14:40,021 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 35
+2023-11-29 17:14:40,022 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 35/videos
+2023-11-29 17:14:40,022 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 35/videos
+2023-11-29 17:14:40,049 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 35/img/mainImage.jpg
+2023-11-29 17:14:40,069 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 35/img/mainImageShown.jpg
+2023-11-29 17:14:40,359 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 35/voiceover/voiceover.mp3
+2023-11-29 17:14:40,360 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 35/txt/City35.txt
+2023-11-29 17:14:40,360 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 35
+2023-11-29 17:14:40,363 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 36
+2023-11-29 17:14:40,363 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 36/videos
+2023-11-29 17:14:40,364 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 36/videos
+2023-11-29 17:14:40,392 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 36/img/mainImage.jpg
+2023-11-29 17:14:40,413 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 36/img/mainImageShown.jpg
+2023-11-29 17:14:40,796 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 36/voiceover/voiceover.mp3
+2023-11-29 17:14:40,797 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 36/txt/City36.txt
+2023-11-29 17:14:40,797 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 36
+2023-11-29 17:14:40,799 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 37
+2023-11-29 17:14:40,799 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 37/videos
+2023-11-29 17:14:40,800 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 37/videos
+2023-11-29 17:14:40,824 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 37/img/mainImage.jpg
+2023-11-29 17:14:40,844 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 37/img/mainImageShown.jpg
+2023-11-29 17:14:41,186 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 37/voiceover/voiceover.mp3
+2023-11-29 17:14:41,187 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 37/txt/City37.txt
+2023-11-29 17:14:41,187 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 37
+2023-11-29 17:14:41,190 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 38
+2023-11-29 17:14:41,191 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 38/videos
+2023-11-29 17:14:41,191 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 38/videos
+2023-11-29 17:14:41,221 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 38/img/mainImage.jpg
+2023-11-29 17:14:41,242 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 38/img/mainImageShown.jpg
+2023-11-29 17:14:41,504 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 38/voiceover/voiceover.mp3
+2023-11-29 17:14:41,505 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 38/txt/City38.txt
+2023-11-29 17:14:41,505 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 38
+2023-11-29 17:14:41,508 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 39
+2023-11-29 17:14:41,508 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 39/videos
+2023-11-29 17:14:41,509 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 39/videos
+2023-11-29 17:14:41,535 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 39/img/mainImage.jpg
+2023-11-29 17:14:41,555 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 39/img/mainImageShown.jpg
+2023-11-29 17:14:41,883 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 39/voiceover/voiceover.mp3
+2023-11-29 17:14:41,884 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 39/txt/City39.txt
+2023-11-29 17:14:41,885 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 39
+2023-11-29 17:14:41,887 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 40
+2023-11-29 17:14:41,888 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 40/videos
+2023-11-29 17:14:41,888 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 40/videos
+2023-11-29 17:14:41,917 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 40/img/mainImage.jpg
+2023-11-29 17:14:41,938 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 40/img/mainImageShown.jpg
+2023-11-29 17:14:42,245 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 40/voiceover/voiceover.mp3
+2023-11-29 17:14:42,245 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 40/txt/City40.txt
+2023-11-29 17:14:42,245 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 40
+2023-11-29 17:14:42,247 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 41
+2023-11-29 17:14:42,247 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 41/videos
+2023-11-29 17:14:42,247 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 41/videos
+2023-11-29 17:14:42,269 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 41/img/mainImage.jpg
+2023-11-29 17:14:42,288 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 41/img/mainImageShown.jpg
+2023-11-29 17:14:42,685 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 41/voiceover/voiceover.mp3
+2023-11-29 17:14:42,686 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 41/txt/City41.txt
+2023-11-29 17:14:42,686 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 41
+2023-11-29 17:14:42,690 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 42
+2023-11-29 17:14:42,690 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 42/videos
+2023-11-29 17:14:42,691 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 42/videos
+2023-11-29 17:14:42,720 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 42/img/mainImage.jpg
+2023-11-29 17:14:42,742 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 42/img/mainImageShown.jpg
+2023-11-29 17:14:43,045 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 42/voiceover/voiceover.mp3
+2023-11-29 17:14:43,046 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 42/txt/City42.txt
+2023-11-29 17:14:43,046 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 42
+2023-11-29 17:14:43,048 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 43
+2023-11-29 17:14:43,048 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 43/videos
+2023-11-29 17:14:43,049 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 43/videos
+2023-11-29 17:14:43,076 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 43/img/mainImage.jpg
+2023-11-29 17:14:43,097 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 43/img/mainImageShown.jpg
+2023-11-29 17:14:43,411 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 43/voiceover/voiceover.mp3
+2023-11-29 17:14:43,412 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 43/txt/City43.txt
+2023-11-29 17:14:43,412 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 43
+2023-11-29 17:14:43,416 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 44
+2023-11-29 17:14:43,417 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 44/videos
+2023-11-29 17:14:43,417 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 44/videos
+2023-11-29 17:14:43,446 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 44/img/mainImage.jpg
+2023-11-29 17:14:43,467 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 44/img/mainImageShown.jpg
+2023-11-29 17:14:43,784 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 44/voiceover/voiceover.mp3
+2023-11-29 17:14:43,785 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 44/txt/City44.txt
+2023-11-29 17:14:43,785 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 44
+2023-11-29 17:14:43,787 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 45
+2023-11-29 17:14:43,787 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 45/videos
+2023-11-29 17:14:43,787 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 45/videos
+2023-11-29 17:14:43,809 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 45/img/mainImage.jpg
+2023-11-29 17:14:43,828 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 45/img/mainImageShown.jpg
+2023-11-29 17:14:44,179 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 45/voiceover/voiceover.mp3
+2023-11-29 17:14:44,179 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 45/txt/City45.txt
+2023-11-29 17:14:44,179 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 45
+2023-11-29 17:14:44,181 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 46
+2023-11-29 17:14:44,181 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 46/videos
+2023-11-29 17:14:44,182 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 46/videos
+2023-11-29 17:14:44,198 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 46/img/mainImage.jpg
+2023-11-29 17:14:44,215 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 46/img/mainImageShown.jpg
+2023-11-29 17:14:44,671 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 46/voiceover/voiceover.mp3
+2023-11-29 17:14:44,672 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 46/txt/City46.txt
+2023-11-29 17:14:44,672 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 46
+2023-11-29 17:14:44,677 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 47
+2023-11-29 17:14:44,677 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 47/videos
+2023-11-29 17:14:44,678 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 47/videos
+2023-11-29 17:14:44,706 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 47/img/mainImage.jpg
+2023-11-29 17:14:44,727 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 47/img/mainImageShown.jpg
+2023-11-29 17:14:45,103 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 47/voiceover/voiceover.mp3
+2023-11-29 17:14:45,104 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 47/txt/City47.txt
+2023-11-29 17:14:45,104 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 47
+2023-11-29 17:14:45,106 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 48
+2023-11-29 17:14:45,107 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 48/videos
+2023-11-29 17:14:45,107 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 48/videos
+2023-11-29 17:14:45,132 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 48/img/mainImage.jpg
+2023-11-29 17:14:45,152 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 48/img/mainImageShown.jpg
+2023-11-29 17:14:45,481 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 48/voiceover/voiceover.mp3
+2023-11-29 17:14:45,482 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 48/txt/City48.txt
+2023-11-29 17:14:45,482 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 48
+2023-11-29 17:14:45,484 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 49
+2023-11-29 17:14:45,484 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 49/videos
+2023-11-29 17:14:45,485 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 49/videos
+2023-11-29 17:14:45,507 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 49/img/mainImage.jpg
+2023-11-29 17:14:45,527 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 49/img/mainImageShown.jpg
+2023-11-29 17:14:45,852 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 49/voiceover/voiceover.mp3
+2023-11-29 17:14:45,853 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 49/txt/City49.txt
+2023-11-29 17:14:45,853 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 49
+2023-11-29 17:14:45,855 - INFO - Created new project folder: ./NEW_PROJECTS/city/City 50
+2023-11-29 17:14:45,856 - INFO - Copied intro.mp4 to ./NEW_PROJECTS/city/City 50/videos
+2023-11-29 17:14:45,856 - INFO - Copied outro.mp4 to ./NEW_PROJECTS/city/City 50/videos
+2023-11-29 17:14:45,883 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 50/img/mainImage.jpg
+2023-11-29 17:14:45,903 - INFO - Created placeholder image at ./NEW_PROJECTS/city/City 50/img/mainImageShown.jpg
+2023-11-29 17:14:46,263 - INFO - Created voiceover MP3 file: ./NEW_PROJECTS/city/City 50/voiceover/voiceover.mp3
+2023-11-29 17:14:46,264 - INFO - Created voiceover text file: ./NEW_PROJECTS/city/City 50/txt/City50.txt
+2023-11-29 17:14:46,264 - INFO - Ran After Effects script for ./NEW_PROJECTS/city/City 50
